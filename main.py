@@ -2,3 +2,5 @@
 # https://www.youtube.com/watch?v=Z1RJmh_OqeA
 # start with simple template
 # https://www.youtube.com/watch?v=Z1RJmh_OqeA
+for i in range(1, 10):
+    print(i)
