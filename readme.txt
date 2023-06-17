@@ -18,3 +18,7 @@ Design-:
     Chatbot Interface: Design an area or chat window where users can input queries and receive responses from the chatbot. Consider using a conversational UI design that provides a natural and interactive experience.
 
     Permission Requests: Design clear and concise permission request dialogs or prompts to inform the user about the required permissions and their purpose. Make sure to adhere to platform-specific design guidelines for permission requests.
+
+
+Notes
+    To develop a standalone desktop application using Python, you can explore libraries such as PyQt, PySide, or Tkinter, which provide GUI frameworks for building desktop applications. These frameworks allow you to create windows, design the user interface, and handle user interactions effectively.
